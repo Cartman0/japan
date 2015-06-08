@@ -1,6 +1,6 @@
 # Introduction to Git & GitHub
 
-![dice and defunkt](https://cloud.githubusercontent.com/assets/2566204/8033835/d4ea459e-0e1c-11e5-8d1e-1214043e824f.JPG)
+![dice is the king of tokyo](https://cloud.githubusercontent.com/assets/2566204/8033916/af115e6a-0e1d-11e5-8b14-de0acd084f8a.jpg)
 
 ## Part One
 * what is version control
